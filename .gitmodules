@@ -1,0 +1,3 @@
+[submodule "uEDP"]
+	path = uEDP
+	url = https://github.com/1811htsang/uEDP.git
